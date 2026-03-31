@@ -1,8 +1,8 @@
 package Escenario1;
 
 public class Cola {
-    Nodo inicio;
-    Nodo fin;
+    public Nodo inicio;
+    public Nodo fin;
 
     public Cola() {
         this.inicio = null;
